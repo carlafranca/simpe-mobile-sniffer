@@ -16,7 +16,7 @@
 3 - Check device to use the get retailers by coords
 
 ```js 
-if(!mobsniffer.isMobile.any()){
+if(mobsniffer.isMobile.any()){
    //Do whatevery you want if is any mobile/tablet
 }
 ```  
