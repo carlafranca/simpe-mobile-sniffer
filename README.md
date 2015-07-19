@@ -28,3 +28,4 @@ if(mobsniffer.isMobile.any()){
 - iPad()
 - Opera()
 - Windows()
+- mobile()
